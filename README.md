@@ -2,9 +2,11 @@
 
 **Co-pilot Médico**
 
-**Eryck Emmanuel Figueredo Cabral** 
-**Camila de Sá Vaz** 
-**Leticia Rodrigues Quirino**
+## Equipe
+- Eryck Emmanuel Figueredo Cabral
+- Camila de Sá Vaz
+- Leticia Rodrigues Quirino
+- Lays Leticia Alves de Souza
 
 ## Requisitos
 
