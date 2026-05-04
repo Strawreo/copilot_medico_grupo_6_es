@@ -2,6 +2,8 @@
 
 **Co-pilot Médico**
 
+**Eryck Emmanuel Figueredo Cabral** 
+
 ## Requisitos
 
 ### Backend
