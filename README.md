@@ -3,7 +3,9 @@
 **Co-pilot Médico**
 
 **Eryck Emmanuel Figueredo Cabral** 
-** Camila de Sá Vaz
+**Camila de Sá Vaz** 
+**Leticia Rodrigues Quirino**
+
 ## Requisitos
 
 ### Backend
