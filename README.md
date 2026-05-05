@@ -7,6 +7,7 @@
 - Camila de Sá Vaz
 - Leticia Rodrigues Quirino
 - Lays Leticia Alves de Souza
+- Aimê Carvalho Guimarães
 
 ## Requisitos
 
